@@ -2,9 +2,7 @@
 A **RE_Kenshi / KenshiLib** plugin for **Kenshi**.
 Fully supported on **Steam** and **GOG** Kenshi **1.0.65**
 
-**Download, screenshots and full description:** 
-
-[Steam] - https://steamcommunity.com/sharedfiles/filedetails/?id=3800900406
+**Download, screenshots and full description:** [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3800900406)
 
 ## Requirements (players)
 - [RE_Kenshi](https://www.nexusmods.com/kenshi/mods/847) — **required**.

@@ -4,13 +4,6 @@ Fully supported on **Steam** and **GOG** Kenshi **1.0.65**
 
 **Download, screenshots and full description:** [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3800900406)
 
-## Requirements (players)
-- [RE_Kenshi](https://www.nexusmods.com/kenshi/mods/847) — **required**.
-- [Emkejs-Mod-Core](https://www.nexusmods.com/kenshi/mods/1885) — optional; enables the in‑game
-  Mod Hub settings panel. Without it the mod still works and reads `mod-config.json`.
-
-Recommended load order: **Emkejs-Mod-Core**, then **this mod**.
-
 ## Building
 - Visual Studio, Platform Toolset **v100**, configuration **x64 / Release**, Character Set: **Unicode**.
 - **External build dependencies (not included in this repo):**
